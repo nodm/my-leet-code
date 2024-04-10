@@ -7,3 +7,4 @@ Solving LeetCode problems
 * [Remove Duplicates from Sorted Array](./src/array/1-easy/remove-duplicates-from-sorted-array/README.md)
 * [Single Number](./src/array/1-easy/single-number/README.md)
 * [Rotate Array](./src/array/1-easy/rotate-array/README.md)
+* [Intersection of Two Arrays II](./src/array/1-easy/intersection-of-two-arrays-2/README.md)
