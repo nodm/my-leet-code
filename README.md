@@ -8,3 +8,4 @@ Solving LeetCode problems
 * [Single Number](./src/array/1-easy/single-number/README.md)
 * [Rotate Array](./src/array/1-easy/rotate-array/README.md)
 * [Intersection of Two Arrays II](./src/array/1-easy/intersection-of-two-arrays-2/README.md)
+* [Two Sum](./src/array/1-easy/two-sum/README.md)
