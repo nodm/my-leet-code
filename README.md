@@ -14,3 +14,4 @@ Solving LeetCode problems
 
 ### Easy
 * [Reverse String](./src/strings/1-easy/reverse-string/README.md)
+* [First Unique Character in a String](./src/strings/1-easy/first-unique-character-in-a-string/README.md)
