@@ -22,3 +22,4 @@ Solving LeetCode problems
 
 ### Easy
 * [Reverse Linked List](./src/linked-list/1-easy/reverse-linked-list/README.md)
+* [Palindrome Linked List](./src/linked-list/1-easy/palindrome-linked-list/README.md)
