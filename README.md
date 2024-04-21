@@ -17,3 +17,8 @@ Solving LeetCode problems
 * [First Unique Character in a String](./src/strings/1-easy/first-unique-character-in-a-string/README.md)
 * [String to Integer (atoi)](./src/strings/1-easy/string-to-Integer-atoi/README.md)
 * [Implement strStr()](./src/strings/1-easy/Implement-str-str/README.md)
+
+## Linked List
+
+### Easy
+* [Reverse Linked List](./src/linked-list/1-easy/reverse-linked-list/README.md)
