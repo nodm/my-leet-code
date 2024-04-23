@@ -24,3 +24,8 @@ Solving LeetCode problems
 * [Reverse Linked List](./src/linked-list/1-easy/reverse-linked-list/README.md)
 * [Palindrome Linked List](./src/linked-list/1-easy/palindrome-linked-list/README.md)
 * [Merge Two Sorted Lists](./src/linked-list/1-easy/merge-two-sorted-lists/README.md)
+
+## Trees
+
+### Easy
+* [Maximum Depth of Binary Tree](./src/trees/1-easy/maximum-depth-of-binary-tree/README.md)
