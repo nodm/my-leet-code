@@ -15,3 +15,18 @@ export class TreeNode {
     public right: TreeNode | null = null
   ) {}
 }
+
+export function createTree(
+  values: (number | null)[],
+  index = 0
+): TreeNode | null {
+  if (index >= values.length || values[index] === null) {
+    return null;
+  }
+
+  const node = new TreeNode(values[index] as number);
+  node.left = createTree(values, 2 * index + 1);
+  node.right = createTree(values, 2 * index + 2);
+
+  return node;
+}
