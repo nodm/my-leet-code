@@ -31,3 +31,4 @@ Solving LeetCode problems
 * [Maximum Depth of Binary Tree](./src/trees/1-easy/maximum-depth-of-binary-tree/README.md)
 * [Binary Tree Level Order Traversal](./src/trees/1-easy/binary-tree-level-order-traversal/README.md)
 * [Validate Binary Search Tree](./src/trees/1-easy/validate-binary-search-tree/README.md)
+* [Convert Sorted Array to Binary Search Tree](./src/trees/1-easy/convert-sorted-array-to-binary-search-tree/README.md)
