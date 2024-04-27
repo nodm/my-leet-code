@@ -33,3 +33,8 @@ Solving LeetCode problems
 * [Validate Binary Search Tree](./src/trees/1-easy/validate-binary-search-tree/README.md)
 * [Convert Sorted Array to Binary Search Tree](./src/trees/1-easy/convert-sorted-array-to-binary-search-tree/README.md)
 * [Symmetric Tree](./src/trees/1-easy/symmetric-tree/README.md)
+
+## Sorting and Searching
+
+### Easy
+* [Merge Sorted Array](./src/sorting-and-searching/1-easy/merge-sorted-array/README.md)
