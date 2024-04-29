@@ -39,3 +39,8 @@ Solving LeetCode problems
 ### Easy
 * [Merge Sorted Array](./src/sorting-and-searching/1-easy/merge-sorted-array/README.md)
 * [First Bad Version](./src/sorting-and-searching/1-easy/first-bad-version/README.md)
+
+## Dynamic Programming
+
+### Easy
+* [Climbing Stairs](./src/dynamic-programming/1-easy/climbing-stairs/index.ts)
