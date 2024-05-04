@@ -51,3 +51,4 @@ Solving LeetCode problems
 
 ### Easy
 * [Shuffle an Array](./src/design/1-easy/shuffle-an-array/README.md)
+* [Min Stack](./src/design/1-easy/min-stack/README.md)
