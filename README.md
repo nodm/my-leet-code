@@ -56,4 +56,6 @@ Solving LeetCode problems
 ## Math
 
 ### Easy
-*[Fizz Buzz](./src/math/1-easy/fizz-buzz/README.md)
+* [Fizz Buzz](./src/math/1-easy/fizz-buzz/README.md)
+* [Count Primes](./src/math/1-easy/count-primes/README.md)
+
