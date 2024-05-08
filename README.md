@@ -59,3 +59,4 @@ Solving LeetCode problems
 * [Fizz Buzz](./src/math/1-easy/fizz-buzz/README.md)
 * [Count Primes](./src/math/1-easy/count-primes/README.md)
 * [Power of Three](./src/math/1-easy/power-of-three/README.md)
+* [Roman to Integer](./src/math/1-easy/roman-to-integer/README.md)
