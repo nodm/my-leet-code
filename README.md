@@ -60,3 +60,8 @@ Solving LeetCode problems
 * [Count Primes](./src/math/1-easy/count-primes/README.md)
 * [Power of Three](./src/math/1-easy/power-of-three/README.md)
 * [Roman to Integer](./src/math/1-easy/roman-to-integer/README.md)
+
+## Others
+
+### Easy
+* [Number of 1 Bits](./src/others/1-easy/number-of-1-bits/README.md)
