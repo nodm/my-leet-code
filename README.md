@@ -65,3 +65,4 @@ Solving LeetCode problems
 
 ### Easy
 * [Number of 1 Bits](./src/others/1-easy/number-of-1-bits/README.md)
+* [Hamming Distance](./src/others/1-easy/hamming-distance/README.md)
