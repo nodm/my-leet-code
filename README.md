@@ -67,3 +67,4 @@ Solving LeetCode problems
 * [Number of 1 Bits](./src/others/1-easy/number-of-1-bits/README.md)
 * [Hamming Distance](./src/others/1-easy/hamming-distance/README.md)
 * [Reverse Bits](./src/others/1-easy/reverse-bits/README.md)
+* [Pascal's Triangle](./src/others/1-easy/pascals_triangle/README.md)
