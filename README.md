@@ -69,3 +69,4 @@ Solving LeetCode problems
 * [Reverse Bits](./src/others/1-easy/reverse-bits/README.md)
 * [Pascal's Triangle](./src/others/1-easy/pascals_triangle/README.md)
 * [Valid Parentheses](./src/others/1-easy/valid-parentheses/README.md)
+* [Missing Number](./src/others/1-easy/missing-number/README.md)
