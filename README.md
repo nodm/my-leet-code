@@ -9,6 +9,7 @@ Solving LeetCode problems
 * [Rotate Array](./src/array/1-easy/rotate-array/README.md)
 * [Intersection of Two Arrays II](./src/array/1-easy/intersection-of-two-arrays-2/README.md)
 * [Two Sum](./src/array/1-easy/two-sum/README.md)
+* [Contains Duplicate](./src/array/1-easy/contains-duplicate/README.md)
 
 ## Strings
 
