@@ -10,6 +10,7 @@ Solving LeetCode problems
 * [Intersection of Two Arrays II](./src/array/1-easy/intersection-of-two-arrays-2/README.md)
 * [Two Sum](./src/array/1-easy/two-sum/README.md)
 * [Contains Duplicate](./src/array/1-easy/contains-duplicate/README.md)
+* [Move Zeroes](./src/array/1-easy/move-zeroes/README.md)
 
 ## Strings
 
