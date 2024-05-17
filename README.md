@@ -11,6 +11,7 @@ Solving LeetCode problems
 * [Two Sum](./src/array/1-easy/two-sum/README.md)
 * [Contains Duplicate](./src/array/1-easy/contains-duplicate/README.md)
 * [Move Zeroes](./src/array/1-easy/move-zeroes/README.md)
+* [Plus One](./src/array//1-easy/plus-one/REDME.md)
 
 ## Strings
 
