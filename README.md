@@ -14,6 +14,7 @@ Solving LeetCode problems
 * [Plus One](./src/array//1-easy/plus-one/README.md)
 * [Best Time to Buy and Sell Stock II](./src/array/1-easy/best-time-to-buy-and-sell-stock-II/README.md)
 * [Rotate Image](./src/array/1-easy/rotate-image/README.md)
+* [Valid Sudoku](./src/array/1-easy/valid-sudoku/README.md)
 
 ## Strings
 
