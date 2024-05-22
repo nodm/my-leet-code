@@ -27,6 +27,7 @@ Solving LeetCode problems
 - [String to Integer (atoi)](./src/strings/1-easy/string-to-Integer-atoi/README.md)
 - [Implement strStr()](./src/strings/1-easy/implement-str-str/README.md)
 - [Reverse Integer](./src/strings/1-easy/reverse-integer/README.md)
+- [Valid Anagram](./src/strings/1-easy/valid=-anagram/README.md)
 
 ## Linked List
 
