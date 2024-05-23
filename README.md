@@ -28,6 +28,7 @@ Solving LeetCode problems
 - [Implement strStr()](./src/strings/1-easy/implement-str-str/README.md)
 - [Reverse Integer](./src/strings/1-easy/reverse-integer/README.md)
 - [Valid Anagram](./src/strings/1-easy/valid=-anagram/README.md)
+- [Valid Palindrome](./src/strings/1-easy/valid-palindrome/README.md)
 
 ## Linked List
 
