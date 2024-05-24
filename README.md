@@ -29,6 +29,7 @@ Solving LeetCode problems
 - [Reverse Integer](./src/strings/1-easy/reverse-integer/README.md)
 - [Valid Anagram](./src/strings/1-easy/valid=-anagram/README.md)
 - [Valid Palindrome](./src/strings/1-easy/valid-palindrome/README.md)
+- [Longest Common Prefix](./src/strings/1-easy/longest-common-prefix/README.md)
 
 ## Linked List
 
