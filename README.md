@@ -39,6 +39,7 @@ Solving LeetCode problems
 - [Palindrome Linked List](./src/linked-list/1-easy/palindrome-linked-list/README.md)
 - [Merge Two Sorted Lists](./src/linked-list/1-easy/merge-two-sorted-lists/README.md)
 - [Linked List Cycle](./src/linked-list/1-easy/linked-list-cycle/README.md)
+- [Delete Node in a Linked List](./src/linked-list/1-easy/delete-node-in-linked-list/README.md)
 
 ## Trees
 
