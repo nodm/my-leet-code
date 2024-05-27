@@ -40,6 +40,7 @@ Solving LeetCode problems
 - [Merge Two Sorted Lists](./src/linked-list/1-easy/merge-two-sorted-lists/README.md)
 - [Linked List Cycle](./src/linked-list/1-easy/linked-list-cycle/README.md)
 - [Delete Node in a Linked List](./src/linked-list/1-easy/delete-node-in-linked-list/README.md)
+- [Remove Nth Node From End of List](./src/linked-list/1-easy/remove-nth-node-from-end-of-list/README.md)
 
 ## Trees
 
