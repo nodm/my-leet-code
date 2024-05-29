@@ -18,6 +18,7 @@ Solving LeetCode problems
 - [Rotate Image](./src/array/1-easy/rotate-image/README.md)
 - [Valid Sudoku](./src/array/1-easy/valid-sudoku/README.md)
 - [Remove Element](./src/array/1-easy/remove-element/README.md)
+- [Majority Element](./src/array/1-easy/majority-element/README.md)
 
 ## Strings
 
