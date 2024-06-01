@@ -55,6 +55,7 @@ Solving LeetCode problems
 - [Convert Sorted Array to Binary Search Tree](./src/trees/1-easy/convert-sorted-array-to-binary-search-tree/README.md)
 - [Symmetric Tree](./src/trees/1-easy/symmetric-tree/README.md)
 - [Same Tree](./src/trees/1-easy/same-tree/README.md)
+- [Invert Binary Tree](./src/trees/1-easy/invert-binary-tree/README.md)
 
 ## Sorting and Searching
 
