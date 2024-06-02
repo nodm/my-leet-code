@@ -2,105 +2,192 @@
 
 Solving LeetCode problems
 
+## Array / String
+
+| Name                                                                                                                      | Level  |
+| :------------------------------------------------------------------------------------------------------------------------ | :----: |
+| [Merge Sorted Array](./src/array-string/merge-sorted-array/README.md)                                                     |  Easy  |
+| [Remove Element](./src/array-string/remove-element/README.md)                                                             |  Easy  |
+| [Remove Duplicates from Sorted Array](./src/array-string/remove-duplicates-from-sorted-array/README.md)                   |  Easy  |
+| [Majority Element](./src/array-string/majority-element/README.md)                                                         |  Easy  |
+| [Rotate Array](./src/array-string/rotate-array/README.md)                                                                 | Medium |
+| [Best Time to Buy and Sell Stock](./src/array-string/best-time-to-buy-and-sell-stock/README.md)                           |  Easy  |
+| [Best Time to Buy and Sell Stock II](./src/array-string/best-time-to-buy-and-sell-stock-II/README.md)                     | Medium |
+| [Roman to Integer](./src/array-string/roman-to-integer/README.md)                                                         |  Easy  |
+| [Longest Common Prefix](./src/array-string/longest-common-prefix/README.md)                                               |  Easy  |
+| [Find the Index of the First Occurrence in a String (implement strStr())](./src/array-string/implement-str-str/README.md) |  Easy  |
+
+## Two Pointers
+
+| Name                                                              | Level |
+| :---------------------------------------------------------------- | :---: |
+| [Valid Palindrome](./src/two-pointers/valid-palindrome/README.md) | Easy  |
+| [Is Subsequence](./src/two-pointers/is-subsequence/README.mds)    | Easy  |
+
+## Sliding Window
+
+| Name | Level |
+| :--- | :---: |
+
+## Matrix
+
+| Name                                                | Level  |
+| :-------------------------------------------------- | :----: |
+| [Valid Sudoku](./src/matrix/valid-sudoku/README.md) | Medium |
+| [Rotate Image](./src/matrix/rotate-image/README.md) | Medium |
+
+## Hashmap
+
+| Name                                                   | Level |
+| :----------------------------------------------------- | :---: |
+| [Ransom Note](./src/hashmap/ransom-note/README.md)     | Easy  |
+| [Valid Anagram](./src/hashmap/valid-anagram/README.md) | Easy  |
+| [Two Sum](./src/hashmap/two-sum/README.md)             | Easy  |
+
+## Intervals
+
+| Name | Level |
+| :--- | :---: |
+
+## Stack
+
+| Name                                                         | Level |
+| :----------------------------------------------------------- | :---: |
+| [Valid Parentheses](./src/stack/valid-parentheses/README.md) | Easy  |
+| [Min Stack](./src/stack/min-stack/README.md)                 | Easy  |
+
+## Linked List
+
+| Name                                                                                             | Level  |
+| :----------------------------------------------------------------------------------------------- | :----: |
+| [Linked List Cycle](./src/linked-list/linked-list-cycle/README.md)                               |  Easy  |
+| [Merge Two Sorted Lists](./src/linked-list/merge-two-sorted-lists/README.md)                     |  Easy  |
+| [Remove Nth Node From End of List](./src/linked-list/remove-nth-node-from-end-of-list/README.md) | Medium |
+
+## Binary Tree General
+
+| Name                                                                                             | Level |
+| :----------------------------------------------------------------------------------------------- | :---: |
+| [Maximum Depth of Binary Tree](./src/binary-tree-general/maximum-depth-of-binary-tree/README.md) | Easy  |
+| [Same Tree](./src/binary-tree-general/same-tree/README.md)                                       | Easy  |
+| [Invert Binary Tree](./src/binary-tree-general/invert-binary-tree/README.md)                     | Easy  |
+| [Symmetric Tree](./src/binary-tree-general/symmetric-tree/README.md)                             | Easy  |
+
+## Binary Tree BFS
+
+| Name                                                                                                   | Level  |
+| :----------------------------------------------------------------------------------------------------- | :----: |
+| [Binary Tree Level Order Traversal](./src/binary-tree-bfs/binary-tree-level-order-traversal/README.md) | Medium |
+
+## Binary Search Tree
+
+| Name                                                                                          | Level  |
+| :-------------------------------------------------------------------------------------------- | :----: |
+| [Validate Binary Search Tree](./src/binary-search-tree/validate-binary-search-tree/README.md) | Medium |
+
+## Graph General
+
+| Name | Level |
+| :--- | :---: |
+
+## Graph BFS
+
+| Name | Level |
+| :--- | :---: |
+
+## Trie
+
+| Name | Level |
+| :--- | :---: |
+
+## Backtracking
+
+| Name | Level |
+| :--- | :---: |
+
+## Divide & Conquer
+
+| Name                                                                                                                        | Level |
+| :-------------------------------------------------------------------------------------------------------------------------- | :---: |
+| [Convert Sorted Array to Binary Search Tree](./src/divide-and-conquer/convert-sorted-array-to-binary-search-tree/README.md) | Easy  |
+
+## Kadane's Algorithm
+
+| Name                                                                   | Level  |
+| :--------------------------------------------------------------------- | :----: |
+| [Maximum Subarray](./src/kadanes-algorithm/maximum-subarray/README.md) | Medium |
+
+## Binary Search
+
+| Name | Level |
+| :--- | :---: |
+
+## Heap
+
+| Name | Level |
+| :--- | :---: |
+
+## Bit Manipulation
+
+| Name                                                                  | Level |
+| :-------------------------------------------------------------------- | :---: |
+| [Number of 1 Bits](./src/bit-manipulation/number-of-1-bits/README.md) | Easy  |
+| [Reverse Bits](./src/bit-manipulation/reverse-bits/README.md)         | Easy  |
+| [Single Number](./src/bit-manipulation/single-number/README.md)       | Easy  |
+
+## Math
+
+| Name                                      | Level |
+| :---------------------------------------- | :---: |
+| [Plus One](./src/math/plus-one/README.md) | Easy  |
+
+## 1D Dynamic Programming
+
+| Name                                                                      | Level  |
+| :------------------------------------------------------------------------ | :----: |
+| [Climbing Stairs](./src/dynamic-programming-1d/climbing-stairs/README.md) |  Easy  |
+| [House Robber](./src/dynamic-programming-1d/house-robber/README.md)       | Medium |
+
+## Multidimensional Dynamic Programming
+
+| Name | Level |
+| :--- | :---: |
+
 ## Array
 
-### Easy
-
-- [Remove Duplicates from Sorted Array](./src/array/1-easy/remove-duplicates-from-sorted-array/README.md)
-- [Single Number](./src/array/1-easy/single-number/README.md)
-- [Rotate Array](./src/array/1-easy/rotate-array/README.md)
 - [Intersection of Two Arrays II](./src/array/1-easy/intersection-of-two-arrays-2/README.md)
-- [Two Sum](./src/array/1-easy/two-sum/README.md)
 - [Contains Duplicate](./src/array/1-easy/contains-duplicate/README.md)
 - [Move Zeroes](./src/array/1-easy/move-zeroes/README.md)
-- [Plus One](./src/array//1-easy/plus-one/README.md)
-- [Best Time to Buy and Sell Stock II](./src/array/1-easy/best-time-to-buy-and-sell-stock-II/README.md)
-- [Rotate Image](./src/array/1-easy/rotate-image/README.md)
-- [Valid Sudoku](./src/array/1-easy/valid-sudoku/README.md)
-- [Remove Element](./src/array/1-easy/remove-element/README.md)
-- [Majority Element](./src/array/1-easy/majority-element/README.md)
 
 ## Strings
-
-### Easy
 
 - [Reverse String](./src/strings/1-easy/reverse-string/README.md)
 - [First Unique Character in a String](./src/strings/1-easy/first-unique-character-in-a-string/README.md)
 - [String to Integer (atoi)](./src/strings/1-easy/string-to-Integer-atoi/README.md)
-- [Implement strStr()](./src/strings/1-easy/implement-str-str/README.md)
 - [Reverse Integer](./src/strings/1-easy/reverse-integer/README.md)
-- [Valid Anagram](./src/strings/1-easy/valid=-anagram/README.md)
-- [Valid Palindrome](./src/strings/1-easy/valid-palindrome/README.md)
-- [Longest Common Prefix](./src/strings/1-easy/longest-common-prefix/README.md)
-- [Is Subsequence](./src/strings/1-easy/is-subsequence/README.mds)
-
-## Hashmap
-
-### Easy
-
-- [Ransom Note](./src/hashmap/1-easy/ransom-note/README.md)
 
 ## Linked List
 
-### Easy
-
 - [Reverse Linked List](./src/linked-list/1-easy/reverse-linked-list/README.md)
 - [Palindrome Linked List](./src/linked-list/1-easy/palindrome-linked-list/README.md)
-- [Merge Two Sorted Lists](./src/linked-list/1-easy/merge-two-sorted-lists/README.md)
-- [Linked List Cycle](./src/linked-list/1-easy/linked-list-cycle/README.md)
 - [Delete Node in a Linked List](./src/linked-list/1-easy/delete-node-in-linked-list/README.md)
-- [Remove Nth Node From End of List](./src/linked-list/1-easy/remove-nth-node-from-end-of-list/README.md)
-
-## Trees
-
-### Easy
-
-- [Maximum Depth of Binary Tree](./src/trees/1-easy/maximum-depth-of-binary-tree/README.md)
-- [Binary Tree Level Order Traversal](./src/trees/1-easy/binary-tree-level-order-traversal/README.md)
-- [Validate Binary Search Tree](./src/trees/1-easy/validate-binary-search-tree/README.md)
-- [Convert Sorted Array to Binary Search Tree](./src/trees/1-easy/convert-sorted-array-to-binary-search-tree/README.md)
-- [Symmetric Tree](./src/trees/1-easy/symmetric-tree/README.md)
-- [Same Tree](./src/trees/1-easy/same-tree/README.md)
-- [Invert Binary Tree](./src/trees/1-easy/invert-binary-tree/README.md)
 
 ## Sorting and Searching
 
-### Easy
-
-- [Merge Sorted Array](./src/sorting-and-searching/1-easy/merge-sorted-array/README.md)
 - [First Bad Version](./src/sorting-and-searching/1-easy/first-bad-version/README.md)
-
-## Dynamic Programming
-
-### Easy
-
-- [Climbing Stairs](./src/dynamic-programming/1-easy/climbing-stairs/index.ts)
-- [Best Time to Buy and Sell Stock](./src/dynamic-programming/1-easy/best-time-to-buy-and-sell-stock/README.md)
-- [Maximum Subarray](./src/dynamic-programming/1-easy/maximum-subarray/README.md)
 
 ## Design
 
-### Easy
-
 - [Shuffle an Array](./src/design/1-easy/shuffle-an-array/README.md)
-- [Min Stack](./src/design/1-easy/min-stack/README.md)
 
 ## Math
-
-### Easy
 
 - [Fizz Buzz](./src/math/1-easy/fizz-buzz/README.md)
 - [Count Primes](./src/math/1-easy/count-primes/README.md)
 - [Power of Three](./src/math/1-easy/power-of-three/README.md)
-- [Roman to Integer](./src/math/1-easy/roman-to-integer/README.md)
 
 ## Others
 
-### Easy
-
-- [Number of 1 Bits](./src/others/1-easy/number-of-1-bits/README.md)
 - [Hamming Distance](./src/others/1-easy/hamming-distance/README.md)
-- [Reverse Bits](./src/others/1-easy/reverse-bits/README.md)
 - [Pascal's Triangle](./src/others/1-easy/pascals_triangle/README.md)
-- [Valid Parentheses](./src/others/1-easy/valid-parentheses/README.md)
 - [Missing Number](./src/others/1-easy/missing-number/README.md)
