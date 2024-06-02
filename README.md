@@ -34,6 +34,12 @@ Solving LeetCode problems
 - [Longest Common Prefix](./src/strings/1-easy/longest-common-prefix/README.md)
 - [Is Subsequence](./src/strings/1-easy/is-subsequence/README.mds)
 
+## Hashmap
+
+### Easy
+
+- [Ransom Note](./src/hashmap/1-easy/ransom-note/README.md)
+
 ## Linked List
 
 ### Easy
