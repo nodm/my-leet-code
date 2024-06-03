@@ -38,11 +38,12 @@ Solving LeetCode problems
 
 ## Hashmap
 
-| Name                                                   | Level |
-| :----------------------------------------------------- | :---: |
-| [Ransom Note](./src/hashmap/ransom-note/README.md)     | Easy  |
-| [Valid Anagram](./src/hashmap/valid-anagram/README.md) | Easy  |
-| [Two Sum](./src/hashmap/two-sum/README.md)             | Easy  |
+| Name                                                             | Level |
+| :--------------------------------------------------------------- | :---: |
+| [Ransom Note](./src/hashmap/ransom-note/README.md)               | Easy  |
+| [Isomorphic Strings](./src/hashmap/isomorphic-strings/README.md) | Easy  |
+| [Valid Anagram](./src/hashmap/valid-anagram/README.md)           | Easy  |
+| [Two Sum](./src/hashmap/two-sum/README.md)                       | Easy  |
 
 ## Intervals
 
