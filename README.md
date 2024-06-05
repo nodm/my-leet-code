@@ -45,6 +45,7 @@ Solving LeetCode problems
 | [Word Pattern](./src/hashmap/word-pattern/README.md)             | Easy  |
 | [Valid Anagram](./src/hashmap/valid-anagram/README.md)           | Easy  |
 | [Two Sum](./src/hashmap/two-sum/README.md)                       | Easy  |
+| [Happy Number](./src/hashmap/happy-number/README.md)             | Easy  |
 
 ## Intervals
 
