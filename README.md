@@ -14,6 +14,7 @@ Solving LeetCode problems
 | [Best Time to Buy and Sell Stock](./src/array-string/best-time-to-buy-and-sell-stock/README.md)                           |  Easy  |
 | [Best Time to Buy and Sell Stock II](./src/array-string/best-time-to-buy-and-sell-stock-II/README.md)                     | Medium |
 | [Roman to Integer](./src/array-string/roman-to-integer/README.md)                                                         |  Easy  |
+| [Length of Last Word](./src/array-string/length-of-last-word/README.md)                                                   |  Easy  |
 | [Longest Common Prefix](./src/array-string/longest-common-prefix/README.md)                                               |  Easy  |
 | [Find the Index of the First Occurrence in a String (implement strStr())](./src/array-string/implement-str-str/README.md) |  Easy  |
 
