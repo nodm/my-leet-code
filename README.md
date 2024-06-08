@@ -50,8 +50,9 @@ Solving LeetCode problems
 
 ## Intervals
 
-| Name | Level |
-| :--- | :---: |
+| Name                                                       | Level |
+| :--------------------------------------------------------- | :---: |
+| [Summary Ranges](./src/intervals/summary-ranges/README.md) | Easy  |
 
 ## Stack
 
