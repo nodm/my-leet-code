@@ -142,9 +142,10 @@ Solving LeetCode problems
 
 ## Math
 
-| Name                                      | Level |
-| :---------------------------------------- | :---: |
-| [Plus One](./src/math/plus-one/README.md) | Easy  |
+| Name                                                        | Level |
+| :---------------------------------------------------------- | :---: |
+| [Palindrome Number](./src/math/palindrome-number/README.md) | Easy  |
+| [Plus One](./src/math/plus-one/README.md)                   | Easy  |
 
 ## 1D Dynamic Programming
 
