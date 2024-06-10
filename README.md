@@ -9,6 +9,7 @@ Solving LeetCode problems
 | [Merge Sorted Array](./src/array-string/merge-sorted-array/README.md)                                                     |  Easy  |
 | [Remove Element](./src/array-string/remove-element/README.md)                                                             |  Easy  |
 | [Remove Duplicates from Sorted Array](./src/array-string/remove-duplicates-from-sorted-array/README.md)                   |  Easy  |
+| [Remove Duplicates from Sorted Array II](./src/array-string/remove-duplicates-from-sorted-array-II/README.md)             | Medium |
 | [Majority Element](./src/array-string/majority-element/README.md)                                                         |  Easy  |
 | [Rotate Array](./src/array-string/rotate-array/README.md)                                                                 | Medium |
 | [Best Time to Buy and Sell Stock](./src/array-string/best-time-to-buy-and-sell-stock/README.md)                           |  Easy  |
