@@ -69,6 +69,7 @@ Solving LeetCode problems
 | [Linked List Cycle](./src/linked-list/linked-list-cycle/README.md)                               |  Easy  |
 | [Merge Two Sorted Lists](./src/linked-list/merge-two-sorted-lists/README.md)                     |  Easy  |
 | [Remove Nth Node From End of List](./src/linked-list/remove-nth-node-from-end-of-list/README.md) | Medium |
+| [Rotate List](./src/linked-list/rotate-list/README.md)                                           | Medium |
 
 ## Binary Tree General
 
