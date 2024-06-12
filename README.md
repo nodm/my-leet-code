@@ -126,8 +126,9 @@ Solving LeetCode problems
 
 ## Binary Search
 
-| Name | Level |
-| :--- | :---: |
+| Name                                                                            | Level |
+| :------------------------------------------------------------------------------ | :---: |
+| [Search Insert Position](./src/binary-search//search-insert-position/README.md) | Easy  |
 
 ## Heap
 
