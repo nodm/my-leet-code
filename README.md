@@ -57,10 +57,11 @@ Solving LeetCode problems
 
 ## Stack
 
-| Name                                                         | Level |
-| :----------------------------------------------------------- | :---: |
-| [Valid Parentheses](./src/stack/valid-parentheses/README.md) | Easy  |
-| [Min Stack](./src/stack/min-stack/README.md)                 | Easy  |
+| Name                                                         | Level  |
+| :----------------------------------------------------------- | :----: |
+| [Valid Parentheses](./src/stack/valid-parentheses/README.md) |  Easy  |
+| [Simplify Path](./src/stack//simplify-path/README.md)        | Medium |
+| [Min Stack](./src/stack/min-stack/README.md)                 |  Easy  |
 
 ## Linked List
 
