@@ -57,11 +57,12 @@ Solving LeetCode problems
 
 ## Stack
 
-| Name                                                         | Level  |
-| :----------------------------------------------------------- | :----: |
-| [Valid Parentheses](./src/stack/valid-parentheses/README.md) |  Easy  |
-| [Simplify Path](./src/stack//simplify-path/README.md)        | Medium |
-| [Min Stack](./src/stack/min-stack/README.md)                 |  Easy  |
+| Name                                                                                       | Level  |
+| :----------------------------------------------------------------------------------------- | :----: |
+| [Valid Parentheses](./src/stack/valid-parentheses/README.md)                               |  Easy  |
+| [Simplify Path](./src/stack//simplify-path/README.md)                                      | Medium |
+| [Min Stack](./src/stack/min-stack/README.md)                                               |  Easy  |
+| [Evaluate Reverse Polish Notation](./src/stack/evaluate-reverse-polish-notation/README.md) | Medium |
 
 ## Linked List
 
