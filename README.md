@@ -15,7 +15,8 @@ Solving LeetCode problems
 | [Best Time to Buy and Sell Stock](./src/array-string/best-time-to-buy-and-sell-stock/README.md)                           |  Easy  |
 | [Best Time to Buy and Sell Stock II](./src/array-string/best-time-to-buy-and-sell-stock-II/README.md)                     | Medium |
 | [Jump Game](./src/array-string/jump-game/README.md)                                                                       | Medium |
-| [Jump Game II](./src/array-string/jump-game-II/README.md                                                                  | Medium |
+| [Jump Game II](./src/array-string/jump-game-II/README.md)                                                                 | Medium |
+| [H-index](./src/array-string/h-index//README.md)                                                                          | Medium |
 | [Insert Delete GetRandom O(1)](./src/array-string/insert-delete-get-random-o1/README.md)                                  | Medium |
 | [Roman to Integer](./src/array-string/roman-to-integer/README.md)                                                         |  Easy  |
 | [Length of Last Word](./src/array-string/length-of-last-word/README.md)                                                   |  Easy  |
