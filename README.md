@@ -87,6 +87,7 @@ Solving LeetCode problems
 | [Same Tree](./src/binary-tree-general/same-tree/README.md)                                       | Easy  |
 | [Invert Binary Tree](./src/binary-tree-general/invert-binary-tree/README.md)                     | Easy  |
 | [Symmetric Tree](./src/binary-tree-general/symmetric-tree/README.md)                             | Easy  |
+| [Path Sum](./src/binary-tree-general/path-sum/README.md)                                         | Easy  |
 
 ## Binary Tree BFS
 
