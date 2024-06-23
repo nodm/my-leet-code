@@ -1,5 +1,5 @@
 import {maxDepth} from './index';
-import {TreeNode} from '../../TreeNode';
+import {TreeNode} from '../TreeNode';
 
 describe('Maximum Depth of Binary Tree', () => {
   test('should return 0 for an empty tree', () => {

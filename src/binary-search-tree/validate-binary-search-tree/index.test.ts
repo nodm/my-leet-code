@@ -1,4 +1,4 @@
-import {createTree} from '../../TreeNode';
+import {createTree} from '../TreeNode';
 import {isValidBST} from './index';
 
 describe('Testing "isValidBST" function', () => {

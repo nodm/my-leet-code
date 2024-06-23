@@ -1,4 +1,4 @@
-import {createTree} from '../../TreeNode';
+import {createTree} from '../TreeNode';
 import isSymmetric from './index';
 
 describe('Testing "isSymmetric"', () => {
