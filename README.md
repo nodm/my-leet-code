@@ -103,9 +103,10 @@ Solving LeetCode problems
 
 ## Binary Search Tree
 
-| Name                                                                                          | Level  |
-| :-------------------------------------------------------------------------------------------- | :----: |
-| [Validate Binary Search Tree](./src/binary-search-tree/validate-binary-search-tree/README.md) | Medium |
+| Name                                                                                                        | Level  |
+| :---------------------------------------------------------------------------------------------------------- | :----: |
+| [Minimum Absolute Difference in BST](./src/binary-search-tree/minimum-absolute-difference-in-bst/README.md) |  Easy  |
+| [Validate Binary Search Tree](./src/binary-search-tree/validate-binary-search-tree/README.md)               | Medium |
 
 ## Graph General
 
