@@ -93,6 +93,7 @@ Solving LeetCode problems
 | [Construct Binary Tree from Preorder and Inorder Traversal](./src/binary-tree-general/construct-tree-from-preorder-and-inorder-traversal/README.md)  | Medium |
 | [Construct Binary Tree from Inorder and Postorder Traversal](./src/binary-tree-general/construct-tree-from-inorder-and-postorder-traversal/index.ts) | Medium |
 | [Path Sum](./src/binary-tree-general/path-sum/README.md)                                                                                             |  Easy  |
+| [Flatten Binary Tree to Linked List](./src/binary-tree-general/flatten-binary-tree-to-linked-list/README.md)                                         | Medium |
 | [Binary Search Tree Iterator](./src/binary-tree-general/binary-search-tree-iterator/README.md)                                                       | Medium |
 | [Count Complete Tree Nodes](./src/binary-tree-general/count-complete-tree-nodes/README.md)                                                           |  Easy  |
 
