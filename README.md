@@ -114,8 +114,9 @@ Solving LeetCode problems
 
 ## Graph General
 
-| Name | Level |
-| :--- | :---: |
+| Name                                                                 | Level  |
+| :------------------------------------------------------------------- | :----: |
+| [Number of Islands](./src/graph-general/number-of-islands/README.md) | Medium |
 
 ## Graph BFS
 
