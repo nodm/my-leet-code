@@ -170,6 +170,7 @@ Solving LeetCode problems
 | :---------------------------------------------------------- | :---: |
 | [Palindrome Number](./src/math/palindrome-number/README.md) | Easy  |
 | [Plus One](./src/math/plus-one/README.md)                   | Easy  |
+| [Sqrt(x)](./src/math/sqrt-x/README.md)                      | Easy  |
 
 ## 1D Dynamic Programming
 
