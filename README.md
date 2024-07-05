@@ -110,6 +110,7 @@ Solving LeetCode problems
 | Name                                                                                                        | Level  |
 | :---------------------------------------------------------------------------------------------------------- | :----: |
 | [Minimum Absolute Difference in BST](./src/binary-search-tree/minimum-absolute-difference-in-bst/README.md) |  Easy  |
+| [Kth Smallest Element in a BST](./src/binary-search-tree/k-th-smallest-element-in-a-bst/README.md)          | Medium |
 | [Validate Binary Search Tree](./src/binary-search-tree/validate-binary-search-tree/README.md)               | Medium |
 
 ## Graph General
