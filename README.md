@@ -40,10 +40,11 @@ Solving LeetCode problems
 
 ## Matrix
 
-| Name                                                | Level  |
-| :-------------------------------------------------- | :----: |
-| [Valid Sudoku](./src/matrix/valid-sudoku/README.md) | Medium |
-| [Rotate Image](./src/matrix/rotate-image/README.md) | Medium |
+| Name                                                          | Level  |
+| :------------------------------------------------------------ | :----: |
+| [Valid Sudoku](./src/matrix/valid-sudoku/README.md)           | Medium |
+| [Rotate Image](./src/matrix/rotate-image/README.md)           | Medium |
+| [Set Matrix Zeroes](./src/matrix/set-matrix-zeroes/README.md) | Medium |
 
 ## Hashmap
 
