@@ -43,6 +43,7 @@ Solving LeetCode problems
 | Name                                                          | Level  |
 | :------------------------------------------------------------ | :----: |
 | [Valid Sudoku](./src/matrix/valid-sudoku/README.md)           | Medium |
+| [Spiral Matrix](./src/matrix/spiral-matrix/README.md)         | Medium |
 | [Rotate Image](./src/matrix/rotate-image/README.md)           | Medium |
 | [Set Matrix Zeroes](./src/matrix/set-matrix-zeroes/README.md) | Medium |
 
