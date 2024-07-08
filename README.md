@@ -28,10 +28,11 @@ Solving LeetCode problems
 
 ## Two Pointers
 
-| Name                                                              | Level |
-| :---------------------------------------------------------------- | :---: |
-| [Valid Palindrome](./src/two-pointers/valid-palindrome/README.md) | Easy  |
-| [Is Subsequence](./src/two-pointers/is-subsequence/README.mds)    | Easy  |
+| Name                                                                                | Level  |
+| :---------------------------------------------------------------------------------- | :----: |
+| [Valid Palindrome](./src/two-pointers/valid-palindrome/README.md)                   |  Easy  |
+| [Is Subsequence](./src/two-pointers/is-subsequence/README.mds)                      |  Easy  |
+| [Container With Most Water](./src/two-pointers/container-with-most-water/README.md) | Medium |
 
 ## Sliding Window
 
