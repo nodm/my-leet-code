@@ -134,8 +134,9 @@ Solving LeetCode problems
 
 ## Backtracking
 
-| Name | Level |
-| :--- | :---: |
+| Name                                      | Level  |
+| :---------------------------------------- | :----: |
+| [Letter Combinations of a Phone Number]() | Medium |
 
 ## Divide & Conquer
 
