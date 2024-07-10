@@ -134,9 +134,10 @@ Solving LeetCode problems
 
 ## Backtracking
 
-| Name                                      | Level  |
-| :---------------------------------------- | :----: |
-| [Letter Combinations of a Phone Number]() | Medium |
+| Name                                                                                                        | Level  |
+| :---------------------------------------------------------------------------------------------------------- | :----: |
+| [Letter Combinations of a Phone Number](./src/backtracking/letter-combinations-of-a-phone-number/README.md) | Medium |
+| [Combinations](./src/backtracking/combinations/README.md)                                                   | Medium |
 
 ## Divide & Conquer
 
