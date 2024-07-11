@@ -77,14 +77,15 @@ Solving LeetCode problems
 
 ## Linked List
 
-| Name                                                                                             | Level  |
-| :----------------------------------------------------------------------------------------------- | :----: |
-| [Linked List Cycle](./src/linked-list/linked-list-cycle/README.md)                               |  Easy  |
-| [Add Two Numbers](./src/linked-list/add-two-numbers/README.md)                                   | Medium |
-| [Merge Two Sorted Lists](./src/linked-list/merge-two-sorted-lists/README.md)                     |  Easy  |
-| [Reverse Linked List II](./src/linked-list/reverse-linked-list-II/README.md)                     | Medium |
-| [Remove Nth Node From End of List](./src/linked-list/remove-nth-node-from-end-of-list/README.md) | Medium |
-| [Rotate List](./src/linked-list/rotate-list/README.md)                                           | Medium |
+| Name                                                                                                       | Level  |
+| :--------------------------------------------------------------------------------------------------------- | :----: |
+| [Linked List Cycle](./src/linked-list/linked-list-cycle/README.md)                                         |  Easy  |
+| [Add Two Numbers](./src/linked-list/add-two-numbers/README.md)                                             | Medium |
+| [Merge Two Sorted Lists](./src/linked-list/merge-two-sorted-lists/README.md)                               |  Easy  |
+| [Reverse Linked List II](./src/linked-list/reverse-linked-list-II/README.md)                               | Medium |
+| [Remove Nth Node From End of List](./src/linked-list/remove-nth-node-from-end-of-list/README.md)           | Medium |
+| [Remove Duplicates from Sorted List II](./src/linked-list/remove-duplicates-from-sorted-list-II/README.md) | Medium |
+| [Rotate List](./src/linked-list/rotate-list/README.md)                                                     | Medium |
 
 ## Binary Tree General
 
