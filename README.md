@@ -25,6 +25,7 @@ Solving LeetCode problems
 | [Length of Last Word](./src/array-string/length-of-last-word/README.md)                                                   |  Easy  |
 | [Longest Common Prefix](./src/array-string/longest-common-prefix/README.md)                                               |  Easy  |
 | [Reverse Words in a String](./src/array-string/reverse-words-in-a-string/README.md)                                       | Medium |
+| [Zigzag Conversion](./src/array-string/zigzag-conversion/README.md)                                                       | Medium |
 | [Find the Index of the First Occurrence in a String (implement strStr())](./src/array-string/implement-str-str/README.md) |  Easy  |
 
 ## Two Pointers
