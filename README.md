@@ -30,11 +30,12 @@ Solving LeetCode problems
 
 ## Two Pointers
 
-| Name                                                                                | Level  |
-| :---------------------------------------------------------------------------------- | :----: |
-| [Valid Palindrome](./src/two-pointers/valid-palindrome/README.md)                   |  Easy  |
-| [Is Subsequence](./src/two-pointers/is-subsequence/README.mds)                      |  Easy  |
-| [Container With Most Water](./src/two-pointers/container-with-most-water/README.md) | Medium |
+| Name                                                                                       | Level  |
+| :----------------------------------------------------------------------------------------- | :----: |
+| [Valid Palindrome](./src/two-pointers/valid-palindrome/README.md)                          |  Easy  |
+| [Is Subsequence](./src/two-pointers/is-subsequence/README.mds)                             |  Easy  |
+| [Two Sum II - Input Array Is Sorted](./src/two-pointers/two-sum-II-input-array-is-sorted/) | Medium |
+| [Container With Most Water](./src/two-pointers/container-with-most-water/README.md)        | Medium |
 
 ## Sliding Window
 
