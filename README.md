@@ -40,8 +40,9 @@ Solving LeetCode problems
 
 ## Sliding Window
 
-| Name | Level |
-| :--- | :---: |
+| Name                                                                                  | Level  |
+| :------------------------------------------------------------------------------------ | :----: |
+| [Minimum Size Subarray Sum](./src/sliding-window/minimum-size-subarray-sum/README.md) | Medium |
 
 ## Matrix
 
