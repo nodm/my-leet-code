@@ -40,9 +40,10 @@ Solving LeetCode problems
 
 ## Sliding Window
 
-| Name                                                                                  | Level  |
-| :------------------------------------------------------------------------------------ | :----: |
-| [Minimum Size Subarray Sum](./src/sliding-window/minimum-size-subarray-sum/README.md) | Medium |
+| Name                                                                                                                            | Level  |
+| :------------------------------------------------------------------------------------------------------------------------------ | :----: |
+| [Minimum Size Subarray Sum](./src/sliding-window/minimum-size-subarray-sum/README.md)                                           | Medium |
+| [Longest Substring Without Repeating Characters](./src/sliding-window/longest-substring-without-repeating-characters/README.md) | Medium |
 
 ## Matrix
 
