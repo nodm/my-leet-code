@@ -53,6 +53,7 @@ Solving LeetCode problems
 | [Spiral Matrix](./src/matrix/spiral-matrix/README.md)         | Medium |
 | [Rotate Image](./src/matrix/rotate-image/README.md)           | Medium |
 | [Set Matrix Zeroes](./src/matrix/set-matrix-zeroes/README.md) | Medium |
+| [Game of Life](./src/matrix//game-of-life/README.md)          | Medium |
 
 ## Hashmap
 
