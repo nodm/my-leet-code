@@ -70,9 +70,10 @@ Solving LeetCode problems
 
 ## Intervals
 
-| Name                                                       | Level |
-| :--------------------------------------------------------- | :---: |
-| [Summary Ranges](./src/intervals/summary-ranges/README.md) | Easy  |
+| Name                                                         | Level  |
+| :----------------------------------------------------------- | :----: |
+| [Summary Ranges](./src/intervals/summary-ranges/README.md)   |  Easy  |
+| [Merge Intervals](./src/intervals/merge-intervals/README.md) | Medium |
 
 ## Stack
 
