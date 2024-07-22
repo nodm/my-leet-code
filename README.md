@@ -74,6 +74,7 @@ Solving LeetCode problems
 | :----------------------------------------------------------- | :----: |
 | [Summary Ranges](./src/intervals/summary-ranges/README.md)   |  Easy  |
 | [Merge Intervals](./src/intervals/merge-intervals/README.md) | Medium |
+| [Insert Interval](./src/intervals/insert-interval/README.md) | Medium |
 
 ## Stack
 
