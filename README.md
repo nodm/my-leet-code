@@ -70,11 +70,12 @@ Solving LeetCode problems
 
 ## Intervals
 
-| Name                                                         | Level  |
-| :----------------------------------------------------------- | :----: |
-| [Summary Ranges](./src/intervals/summary-ranges/README.md)   |  Easy  |
-| [Merge Intervals](./src/intervals/merge-intervals/README.md) | Medium |
-| [Insert Interval](./src/intervals/insert-interval/README.md) | Medium |
+| Name                                                                                                               | Level  |
+| :----------------------------------------------------------------------------------------------------------------- | :----: |
+| [Summary Ranges](./src/intervals/summary-ranges/README.md)                                                         |  Easy  |
+| [Merge Intervals](./src/intervals/merge-intervals/README.md)                                                       | Medium |
+| [Insert Interval](./src/intervals/insert-interval/README.md)                                                       | Medium |
+| [Minimum Number of Arrows to Burst Balloons](./src/intervals/minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 
 ## Stack
 
