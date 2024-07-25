@@ -98,6 +98,8 @@ Solving LeetCode problems
 | [Remove Nth Node From End of List](./src/linked-list/remove-nth-node-from-end-of-list/README.md)           | Medium |
 | [Remove Duplicates from Sorted List II](./src/linked-list/remove-duplicates-from-sorted-list-II/README.md) | Medium |
 | [Rotate List](./src/linked-list/rotate-list/README.md)                                                     | Medium |
+| [Partition List](./src/linked-list/partition-list/README.md)                                               | Medium |
+| [LRU Cache](./src/linked-list/lru-cache/README.md)                                                         | Medium |
 
 ## Binary Tree General
 
