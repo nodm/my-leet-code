@@ -111,6 +111,7 @@ Solving LeetCode problems
 | [Symmetric Tree](./src/binary-tree-general/symmetric-tree/README.md)                                                                                 |  Easy  |
 | [Construct Binary Tree from Preorder and Inorder Traversal](./src/binary-tree-general/construct-tree-from-preorder-and-inorder-traversal/README.md)  | Medium |
 | [Construct Binary Tree from Inorder and Postorder Traversal](./src/binary-tree-general/construct-tree-from-inorder-and-postorder-traversal/index.ts) | Medium |
+| [Populating Next Right Pointers in Each Node II](./src/binary-tree-general/populating-next-right-pointers-in-each-node-II/README.md)                 | Medium |
 | [Path Sum](./src/binary-tree-general/path-sum/README.md)                                                                                             |  Easy  |
 | [Flatten Binary Tree to Linked List](./src/binary-tree-general/flatten-binary-tree-to-linked-list/README.md)                                         | Medium |
 | [Binary Search Tree Iterator](./src/binary-tree-general/binary-search-tree-iterator/README.md)                                                       | Medium |
