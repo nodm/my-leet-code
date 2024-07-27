@@ -113,6 +113,7 @@ Solving LeetCode problems
 | [Construct Binary Tree from Inorder and Postorder Traversal](./src/binary-tree-general/construct-tree-from-inorder-and-postorder-traversal/index.ts) | Medium |
 | [Populating Next Right Pointers in Each Node II](./src/binary-tree-general/populating-next-right-pointers-in-each-node-II/README.md)                 | Medium |
 | [Path Sum](./src/binary-tree-general/path-sum/README.md)                                                                                             |  Easy  |
+| [Sum Root to Leaf Numbers](./src/binary-tree-general/sum-root-to-leaf-numbers/README.md)                                                             | Medium |
 | [Flatten Binary Tree to Linked List](./src/binary-tree-general/flatten-binary-tree-to-linked-list/README.md)                                         | Medium |
 | [Binary Search Tree Iterator](./src/binary-tree-general/binary-search-tree-iterator/README.md)                                                       | Medium |
 | [Count Complete Tree Nodes](./src/binary-tree-general/count-complete-tree-nodes/README.md)                                                           |  Easy  |
