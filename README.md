@@ -117,6 +117,7 @@ Solving LeetCode problems
 | [Flatten Binary Tree to Linked List](./src/binary-tree-general/flatten-binary-tree-to-linked-list/README.md)                                         | Medium |
 | [Binary Search Tree Iterator](./src/binary-tree-general/binary-search-tree-iterator/README.md)                                                       | Medium |
 | [Count Complete Tree Nodes](./src/binary-tree-general/count-complete-tree-nodes/README.md)                                                           |  Easy  |
+| [Lowest Common Ancestor of a Binary Tree](./src/binary-tree-general/lowest-common-ancestor-of-a-binary-tree/README.md)                               | Medium |
 
 ## Binary Tree BFS
 
