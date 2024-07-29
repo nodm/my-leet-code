@@ -123,6 +123,7 @@ Solving LeetCode problems
 
 | Name                                                                                                   | Level  |
 | :----------------------------------------------------------------------------------------------------- | :----: |
+| [Binary Tree Right Side View](./src/binary-tree-bfs/binary-tree-right-side-view/README.md)             | Medium |
 | [Average of Levels in Binary Tree](./src/binary-tree-bfs/average-of-levels-in-binary-tree/README.md)   |  Easy  |
 | [Binary Tree Level Order Traversal](./src/binary-tree-bfs/binary-tree-level-order-traversal/README.md) | Medium |
 
