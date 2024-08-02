@@ -1,6 +1,6 @@
 # my-leet-code
 
-Solving LeetCode problems
+**Solving LeetCode problems**
 
 ## Array / String
 
@@ -251,3 +251,6 @@ Solving LeetCode problems
 - [Hamming Distance](./src/others/1-easy/hamming-distance/README.md)
 - [Pascal's Triangle](./src/others/1-easy/pascals_triangle/README.md)
 - [Missing Number](./src/others/1-easy/missing-number/README.md)
+
+![LeatCode Badge 50 days](./LeetCode50badge.png)
+![LeatCode Badge 50 days](./LeetCode100badge.png)
