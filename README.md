@@ -144,6 +144,7 @@
 | [Binary Tree Zigzag Level Order Traversal](./src/graph-general/surrounded-regions/README.md) | Medium |
 | [Clone Graph](./src/graph-general/clone-graph/README.md)                                     | Medium |
 | [Evaluate Division](./src/graph-general/evaluate-division/README.md)                         | Medium |
+| [Course Schedule](./src/graph-general/course-schedule/README.md)                             | Medium |
 
 ## Graph BFS
 
