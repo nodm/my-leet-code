@@ -149,8 +149,9 @@
 
 ## Graph BFS
 
-| Name | Level |
-| :--- | :---: |
+| Name                                                               | Level  |
+| :----------------------------------------------------------------- | :----: |
+| [Snakes and Ladders](./src/graph-bfs/snakes-and-ladders/README.md) | Medium |
 
 ## Trie
 
