@@ -156,8 +156,9 @@
 
 ## Trie
 
-| Name | Level |
-| :--- | :---: |
+| Name                                                                            | Level  |
+| :------------------------------------------------------------------------------ | :----: |
+| [Implement Trie (Prefix Tree)](./src/trie/implement-trie_prefix-tree/README.md) | Medium |
 
 ## Backtracking
 
