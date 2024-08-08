@@ -156,9 +156,10 @@
 
 ## Trie
 
-| Name                                                                            | Level  |
-| :------------------------------------------------------------------------------ | :----: |
-| [Implement Trie (Prefix Tree)](./src/trie/implement-trie_prefix-tree/README.md) | Medium |
+| Name                                                                                                          | Level  |
+| :------------------------------------------------------------------------------------------------------------ | :----: |
+| [Implement Trie (Prefix Tree)](./src/trie/implement-trie_prefix-tree/README.md)                               | Medium |
+| [Design Add and Search Words Data Structure](./src/trie/design-add-and-search-words-data-structure/README.md) | Medium |
 
 ## Backtracking
 
