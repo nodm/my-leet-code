@@ -160,6 +160,7 @@
 | :------------------------------------------------------------------------------------------------------------ | :----: |
 | [Implement Trie (Prefix Tree)](./src/trie/implement-trie_prefix-tree/README.md)                               | Medium |
 | [Design Add and Search Words Data Structure](./src/trie/design-add-and-search-words-data-structure/README.md) | Medium |
+| [Word Search II](./src/trie/word-search-II/README.md)                                                         |  Hard  |
 
 ## Backtracking
 
@@ -182,9 +183,10 @@
 
 ## Binary Search
 
-| Name                                                                            | Level |
-| :------------------------------------------------------------------------------ | :---: |
-| [Search Insert Position](./src/binary-search//search-insert-position/README.md) | Easy  |
+| Name                                                                            | Level  |
+| :------------------------------------------------------------------------------ | :----: |
+| [Search Insert Position](./src/binary-search//search-insert-position/README.md) |  Easy  |
+| [Search a 2D Matrix](./src/binary-search/search-a-2d-matrix/README.md)          | Medium |
 
 ## Heap
 
