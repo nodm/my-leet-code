@@ -187,6 +187,7 @@
 | :------------------------------------------------------------------------------ | :----: |
 | [Search Insert Position](./src/binary-search//search-insert-position/README.md) |  Easy  |
 | [Search a 2D Matrix](./src/binary-search/search-a-2d-matrix/README.md)          | Medium |
+| [Find Peak Element](./src/binary-search/find-peak-element/README.md)            | Medium |
 
 ## Heap
 
