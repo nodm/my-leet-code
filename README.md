@@ -183,11 +183,12 @@
 
 ## Binary Search
 
-| Name                                                                            | Level  |
-| :------------------------------------------------------------------------------ | :----: |
-| [Search Insert Position](./src/binary-search//search-insert-position/README.md) |  Easy  |
-| [Search a 2D Matrix](./src/binary-search/search-a-2d-matrix/README.md)          | Medium |
-| [Find Peak Element](./src/binary-search/find-peak-element/README.md)            | Medium |
+| Name                                                                                           | Level  |
+| :--------------------------------------------------------------------------------------------- | :----: |
+| [Search Insert Position](./src/binary-search//search-insert-position/README.md)                |  Easy  |
+| [Search a 2D Matrix](./src/binary-search/search-a-2d-matrix/README.md)                         | Medium |
+| [Find Peak Element](./src/binary-search/find-peak-element/README.md)                           | Medium |
+| [Search in Rotated Sorted Array](./src/binary-search/search-in-rotated-sorted-array/README.md) | Medium |
 
 ## Heap
 
