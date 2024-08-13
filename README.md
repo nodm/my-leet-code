@@ -190,6 +190,7 @@
 | [Find Peak Element](./src/binary-search/find-peak-element/README.md)                                                                             | Medium |
 | [Search in Rotated Sorted Array](./src/binary-search/search-in-rotated-sorted-array/README.md)                                                   | Medium |
 | [Find First and Last Position of Element in Sorted Array](./src/binary-search/find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium |
+| [Find Minimum in Rotated Sorted Array](./src/binary-search/find-minimum-in-rotated-sorted-array/README.md)                                       | Medium |
 
 ## Heap
 
