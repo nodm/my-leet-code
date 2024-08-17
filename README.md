@@ -199,13 +199,14 @@
 
 ## Bit Manipulation
 
-| Name                                                                  | Level |
-| :-------------------------------------------------------------------- | :---: |
-| [Add Binary](./src/bit-manipulation/add-binary/README.md)             | Easy  |
-| [Number of 1 Bits](./src/bit-manipulation/number-of-1-bits/README.md) | Easy  |
-| [Reverse Bits](./src/bit-manipulation/reverse-bits/README.md)         | Easy  |
-| [Single Number](./src/bit-manipulation/single-number/README.md)       | Easy  |
-| [Single Number II](./src/bit-manipulation/single-number-II/README.md) | Easy  |
+| Name                                                                                          | Level |
+| :-------------------------------------------------------------------------------------------- | :---: |
+| [Add Binary](./src/bit-manipulation/add-binary/README.md)                                     | Easy  |
+| [Number of 1 Bits](./src/bit-manipulation/number-of-1-bits/README.md)                         | Easy  |
+| [Reverse Bits](./src/bit-manipulation/reverse-bits/README.md)                                 | Easy  |
+| [Single Number](./src/bit-manipulation/single-number/README.md)                               | Easy  |
+| [Single Number II](./src/bit-manipulation/single-number-II/README.md)                         | Easy  |
+| [Bitwise AND of Numbers Range](./src/bit-manipulation/bitwise-and-of-numbers-range/README.md) | Easy  |
 
 ## Math
 
