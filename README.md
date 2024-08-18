@@ -260,6 +260,7 @@
 - [Fizz Buzz](./src/math/1-easy/fizz-buzz/README.md)
 - [Count Primes](./src/math/1-easy/count-primes/README.md)
 - [Power of Three](./src/math/1-easy/power-of-three/README.md)
+- [Pow(x, n)](./src/math/pow-x-n/README.md)
 
 ## Others
 
