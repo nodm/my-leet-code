@@ -194,8 +194,9 @@
 
 ## Heap
 
-| Name | Level |
-| :--- | :---: |
+| Name                                                                                     | Level  |
+| :--------------------------------------------------------------------------------------- | :----: |
+| [Kth Largest Element in an Array](./src/heap/k-th-largest-element-in-an-array/README.md) | Medium |
 
 ## Bit Manipulation
 
