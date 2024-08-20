@@ -211,11 +211,12 @@
 
 ## Math
 
-| Name                                                        | Level |
-| :---------------------------------------------------------- | :---: |
-| [Palindrome Number](./src/math/palindrome-number/README.md) | Easy  |
-| [Plus One](./src/math/plus-one/README.md)                   | Easy  |
-| [Sqrt(x)](./src/math/sqrt-x/README.md)                      | Easy  |
+| Name                                                                        | Level  |
+| :-------------------------------------------------------------------------- | :----: |
+| [Palindrome Number](./src/math/palindrome-number/README.md)                 |  Easy  |
+| [Plus One](./src/math/plus-one/README.md)                                   |  Easy  |
+| [Factorial Trailing Zeroes](./src/math/factorial-trailing-zeroes/README.md) | Medium |
+| [Sqrt(x)](./src/math/sqrt-x/README.md)                                      |  Easy  |
 
 ## 1D Dynamic Programming
 
