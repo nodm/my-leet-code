@@ -168,6 +168,7 @@
 | :---------------------------------------------------------------------------------------------------------- | :----: |
 | [Letter Combinations of a Phone Number](./src/backtracking/letter-combinations-of-a-phone-number/README.md) | Medium |
 | [Combinations](./src/backtracking/combinations/README.md)                                                   | Medium |
+| [Permutations](./src/backtracking/permutations/README.md)                                                   | Medium |
 
 ## Divide & Conquer
 
