@@ -16,7 +16,7 @@ export function twoSum(numbers: number[], target: number): number[] {
     }
   }
 
-  // Per constraints, exactly one solution exists, 
+  // Per constraints, exactly one solution exists,
   // so we don't need to handle the "no solution" case.
   return [];
 }

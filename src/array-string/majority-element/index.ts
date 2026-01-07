@@ -1,4 +1,4 @@
-function majorityElement(nums: number[]): number {
+export function majorityElement(nums: number[]): number {
   const majorityThreshold = Math.ceil(nums.length / 2);
 
   let i = 0;
