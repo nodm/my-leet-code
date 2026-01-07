@@ -9,6 +9,6 @@ describe('Testing "rob"', () => {
     'for amount of money in each house $nums, it should return $result',
     ({amountOfMoney: nums, result}) => {
       expect(rob(nums)).toEqual(result);
-    }
+    },
   );
 });

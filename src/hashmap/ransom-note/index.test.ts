@@ -13,6 +13,6 @@ describe('canConstruct', () => {
     'canConstruct(%s, %s) should return %s',
     (ransomNote, magazine, expected) => {
       expect(canConstruct(ransomNote, magazine)).toBe(expected);
-    }
+    },
   );
 });

@@ -15,6 +15,6 @@ describe('Testing "isValidBST" function', () => {
       console.log(tree);
 
       expect(isValidBST(tree)).toBe(expectedResult);
-    }
+    },
   );
 });

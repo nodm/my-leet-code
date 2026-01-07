@@ -5,7 +5,7 @@ import {TreeNode} from '../TreeNode';
  */
 export function buildTree(
   preorder: number[],
-  inorder: number[]
+  inorder: number[],
 ): TreeNode | null {
   if (preorder.length === 0) return null;
 
@@ -30,7 +30,7 @@ export function buildTree(
  */
 export function buildTreeOpt(
   preorder: number[],
-  inorder: number[]
+  inorder: number[],
 ): TreeNode | null {
   const inorderMap = new Map<number, number>();
 
@@ -45,7 +45,7 @@ export function buildTreeOpt(
     inorder,
     0,
     inorder.length - 1,
-    inorderMap
+    inorderMap,
   );
 }
 
@@ -56,7 +56,7 @@ function buildTreeHelper(
   inorder: number[],
   inStart: number,
   inEnd: number,
-  inorderMap: Map<number, number>
+  inorderMap: Map<number, number>,
 ): TreeNode | null {
   if (preStart > preEnd) return null;
 
@@ -73,7 +73,7 @@ function buildTreeHelper(
     inorder,
     inStart,
     rootIndex - 1,
-    inorderMap
+    inorderMap,
   );
   root.right = buildTreeHelper(
     preorder,
@@ -82,7 +82,7 @@ function buildTreeHelper(
     inorder,
     rootIndex + 1,
     inEnd,
-    inorderMap
+    inorderMap,
   );
 
   return root;

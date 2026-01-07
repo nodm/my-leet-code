@@ -12,7 +12,7 @@ function countPrimes(n: number): number {
   }
 
   return isPrime.filter(
-    (isPrimeNumber, num) => isPrimeNumber && num > 1 && num < n
+    (isPrimeNumber, num) => isPrimeNumber && num > 1 && num < n,
   ).length;
 }
 

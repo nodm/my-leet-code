@@ -56,6 +56,6 @@ describe('gameOfLife', () => {
     (board, expected) => {
       gameOfLife(board);
       expect(board).toEqual(expected);
-    }
+    },
   );
 });

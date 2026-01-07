@@ -8,7 +8,7 @@ describe('reverseBetween()', () => {
     [[1, 2, 3, 4, 5], 1, 5, [5, 4, 3, 2, 1]],
   ])('reverseBetween(%j, %i, %i) should return %j', (a, b, c, expected) => {
     expect(
-      convertLinkedListToArray(reverseBetween(createLinkedList(a), b, c))
+      convertLinkedListToArray(reverseBetween(createLinkedList(a), b, c)),
     ).toStrictEqual(expected);
   });
 });

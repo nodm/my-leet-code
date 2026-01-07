@@ -16,6 +16,6 @@ describe('Testing "firstBadVersion"', () => {
 
       expect(getFirstBadVersion(isBadVersion)(n)).toEqual(firstBadVersion);
       console.log('>>>', 'API call #', numberOfCalls);
-    }
+    },
   );
 });

@@ -12,13 +12,13 @@ export class TreeNode {
   constructor(
     public val = 0,
     public left: TreeNode | null = null,
-    public right: TreeNode | null = null
+    public right: TreeNode | null = null,
   ) {}
 }
 
 export function createTree(
   values: (number | null)[],
-  index = 0
+  index = 0,
 ): TreeNode | null {
   if (index >= values.length || values[index] === null) {
     return null;

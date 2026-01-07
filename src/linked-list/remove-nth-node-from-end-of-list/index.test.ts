@@ -11,8 +11,8 @@ describe('Testing "removeNthFromEnd" function', () => {
     'should remove the nth node from the end of the list',
     (list: number[], n: number, expected: number[]) => {
       expect(
-        convertLinkedListToArray(removeNthFromEnd(createLinkedList(list), n))
+        convertLinkedListToArray(removeNthFromEnd(createLinkedList(list), n)),
       ).toEqual(expected);
-    }
+    },
   );
 });

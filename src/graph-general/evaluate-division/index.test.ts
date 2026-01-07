@@ -47,6 +47,6 @@ describe('calcEquation', () => {
     '%# | calcEquation(%o, %o, %o) should return %o',
     (equations, values, queries, expected) => {
       expect(calcEquation(equations, values, queries)).toEqual(expected);
-    }
+    },
   );
 });

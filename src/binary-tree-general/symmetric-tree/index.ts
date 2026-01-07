@@ -30,7 +30,7 @@ export function isSymmetricIterative(root: TreeNode | null): boolean {
       (acc, node) => {
         return node ? [...acc, node.left, node.right] : acc;
       },
-      [] as (TreeNode | null)[]
+      [] as (TreeNode | null)[],
     );
   }
 

@@ -17,7 +17,7 @@ function romanToInt(s: string): number {
 
   while (i >= 0) {
     const currentValue = alphabetMap.get(
-      s.charAt(i) as RomanNumberCharacter
+      s.charAt(i) as RomanNumberCharacter,
     ) as number;
 
     if (currentValue < previousValue) {

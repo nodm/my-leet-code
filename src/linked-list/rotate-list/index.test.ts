@@ -13,8 +13,8 @@ describe('rotateRight()', () => {
   ])('should ', (head, k, expected) => {
     expect(
       convertLinkedListToArray(
-        rotateRight(head ? createLinkedList(head) : null, k)
-      )
+        rotateRight(head ? createLinkedList(head) : null, k),
+      ),
     ).toEqual(expected);
   });
 });

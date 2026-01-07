@@ -10,6 +10,6 @@ describe('canCompleteCircuit', () => {
     'should return the starting index of a valid circuit',
     (gas, cost, expected) => {
       expect(canCompleteCircuit(gas, cost)).toBe(expected);
-    }
+    },
   );
 });

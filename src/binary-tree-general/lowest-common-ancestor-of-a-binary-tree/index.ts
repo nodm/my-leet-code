@@ -24,7 +24,7 @@ import {TreeNode} from '../TreeNode';
 export function lowestCommonAncestor(
   root: TreeNode | null,
   p: TreeNode | null,
-  q: TreeNode | null
+  q: TreeNode | null,
 ): TreeNode | null {
   if (root === null || root === p || root === q) {
     return root;

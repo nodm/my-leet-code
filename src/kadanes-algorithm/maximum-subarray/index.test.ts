@@ -10,6 +10,6 @@ describe('Testing "minSubarray"', () => {
     'should return $expected for $input',
     ({input, expected}: {input: number[]; expected: number}) => {
       expect(maxSubarray(input)).toBe(expected);
-    }
+    },
   );
 });

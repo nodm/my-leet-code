@@ -3,7 +3,7 @@ import {ListNode} from '../list-node';
 export function reverseBetween(
   head: ListNode | null,
   left: number,
-  right: number
+  right: number,
 ): ListNode | null {
   if (head === null || left === right) return head;
 

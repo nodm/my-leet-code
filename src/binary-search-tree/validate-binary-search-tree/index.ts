@@ -16,7 +16,7 @@ import {TreeNode} from '../TreeNode';
 export function isValidBST(
   root: TreeNode | null,
   min: number | undefined = undefined,
-  max: number | undefined = undefined
+  max: number | undefined = undefined,
 ): boolean {
   if (root === null) return true;
 

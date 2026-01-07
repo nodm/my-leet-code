@@ -8,6 +8,6 @@ describe('Testing "maxProfit"', () => {
     'should return $expected for prices $prices',
     ({prices, expected}: {prices: number[]; expected: number}) => {
       expect(maxProfit(prices)).toBe(expected);
-    }
+    },
   );
 });

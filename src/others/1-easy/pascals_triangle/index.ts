@@ -1,6 +1,6 @@
 function generate(numRows: number): number[][] {
   const pascalsTriangle: number[][] = Array.from({length: numRows}, (_, i) =>
-    Array.from({length: i + 1}, () => 1)
+    Array.from({length: i + 1}, () => 1),
   );
 
   for (let i = 0; i < numRows; i += 1) {
