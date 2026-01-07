@@ -1,4 +1,4 @@
-function missingNumber(nums: number[]): number {
+export function missingNumber(nums: number[]): number {
   const num = [...nums]
     .sort((a, b) => a - b)
     .findIndex((num, index) => num !== index);

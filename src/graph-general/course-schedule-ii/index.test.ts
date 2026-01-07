@@ -1,4 +1,4 @@
-import { findOrder } from '.';
+import {findOrder} from '.';
 
 describe('findOrder', () => {
   it('returns the correct order of courses when there is a valid schedule', () => {

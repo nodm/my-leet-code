@@ -44,7 +44,7 @@ describe('isValidSudoku', () => {
       ],
       false,
     ],
-  ])(`Sudoku %p should be %p`, (sudoku, expected) => {
+  ])('Sudoku %p should be %p', (sudoku, expected) => {
     expect(isValidSudoku(sudoku)).toBe(expected);
   });
 });

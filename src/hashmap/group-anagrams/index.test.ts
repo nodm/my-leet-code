@@ -1,4 +1,4 @@
-import { groupAnagrams } from './index';
+import {groupAnagrams} from './index';
 
 describe('groupAnagrams', () => {
   it('should group anagrams together', () => {
@@ -7,7 +7,9 @@ describe('groupAnagrams', () => {
     const result = groupAnagrams(strs).map(group => group.sort());
     // Sort the outer array for consistent comparison
     result.sort((a, b) => a[0].localeCompare(b[0]));
-    const sortedExpected = expected.map(g => g.sort()).sort((a, b) => a[0].localeCompare(b[0]));
+    const sortedExpected = expected
+      .map(g => g.sort())
+      .sort((a, b) => a[0].localeCompare(b[0]));
     expect(result).toEqual(sortedExpected);
   });
 

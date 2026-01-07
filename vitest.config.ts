@@ -1,10 +1,11 @@
 /// <reference types="vitest" />
-import { defineConfig } from 'vitest/config';
+// eslint-disable-next-line n/no-unpublished-import
+import {defineConfig} from 'vitest/config';
 
 export default defineConfig({
-    test: {
-        globals: true,
-        environment: 'node',
-        exclude: ['build/**', 'node_modules/**'],
-    },
+  test: {
+    globals: true,
+    environment: 'node',
+    exclude: ['build/**', 'node_modules/**'],
+  },
 });
