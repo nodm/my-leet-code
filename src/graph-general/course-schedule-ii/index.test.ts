@@ -1,4 +1,4 @@
-import {findOrder} from '.';
+import { findOrder } from '.';
 
 describe('findOrder', () => {
   it('returns the correct order of courses when there is a valid schedule', () => {
@@ -31,7 +31,7 @@ describe('findOrder', () => {
     const prerequisites: number[][] = [];
     const expected = [1, 0];
     const result = findOrder(numCourses, prerequisites);
-    expect(result).toEqual(expected);
+    expect(result.sort()).toEqual(expected.sort());
   });
 
   it('returns the correct order of courses when there is only one course', () => {
