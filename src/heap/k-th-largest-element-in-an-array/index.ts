@@ -70,7 +70,6 @@ class MinHeap {
     const length = this.heap.length;
     const element = this.heap[0];
 
-    // eslint-disable-next-line no-constant-condition
     while (true) {
       const leftChildIndex = 2 * index + 1;
       const rightChildIndex = 2 * index + 2;

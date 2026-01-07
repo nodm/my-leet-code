@@ -6,7 +6,7 @@
 export function minMutation(
   startGene: string,
   endGene: string,
-  bank: string[]
+  bank: string[],
 ): number {
   const geneBank = new Set(bank);
 

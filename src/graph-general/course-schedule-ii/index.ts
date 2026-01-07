@@ -6,7 +6,7 @@
  */
 export function findOrder(
   numCourses: number,
-  prerequisites: number[][]
+  prerequisites: number[][],
 ): number[] {
   // Create an adjacency list to represent the graph
   const graph = Array.from<unknown, number[]>({length: numCourses}, () => []);

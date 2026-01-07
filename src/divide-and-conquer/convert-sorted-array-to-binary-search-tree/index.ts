@@ -21,7 +21,7 @@ export function sortedArrayToBST(nums: number[]): TreeNode | null {
   const tree = new TreeNode(
     nums[mid],
     sortedArrayToBST(nums.slice(0, mid)),
-    sortedArrayToBST(nums.slice(mid + 1))
+    sortedArrayToBST(nums.slice(mid + 1)),
   );
 
   return tree;

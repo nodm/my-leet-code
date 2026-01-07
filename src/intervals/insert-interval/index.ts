@@ -4,7 +4,7 @@ Space Complexity: `O(n)` for storing the result list.
 */
 export function insert(
   intervals: number[][],
-  newInterval: number[]
+  newInterval: number[],
 ): number[][] {
   const n = intervals.length;
   const result: number[][] = [];

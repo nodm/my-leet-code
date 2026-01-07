@@ -6,7 +6,7 @@
  */
 export function canFinish(
   numCourses: number,
-  prerequisites: number[][]
+  prerequisites: number[][],
 ): boolean {
   // Create an adjacency list to represent the graph
   const graph = Array.from<unknown, number[]>({length: numCourses}, () => []);

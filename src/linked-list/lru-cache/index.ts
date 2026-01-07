@@ -4,7 +4,7 @@ class DLListNode {
 
   constructor(
     public key = 0,
-    public value = 0
+    public value = 0,
   ) {}
 }
 

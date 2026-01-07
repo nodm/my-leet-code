@@ -12,6 +12,6 @@ describe('removeDuplicates', () => {
       const k = removeDuplicates(nums);
       expect(k).toEqual(expectedNumber);
       expect(nums.slice(0, k)).toEqual(expected);
-    }
+    },
   );
 });

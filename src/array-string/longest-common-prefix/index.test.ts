@@ -10,6 +10,6 @@ describe('longestCommonPrefix', () => {
     'should return %p as the longest common prefix for the strings %p',
     (expected, strs) => {
       expect(longestCommonPrefix(strs)).toBe(expected);
-    }
+    },
   );
 });

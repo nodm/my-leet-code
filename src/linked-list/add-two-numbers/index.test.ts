@@ -17,8 +17,8 @@ describe('addTwoNumbers', () => {
   ])('%# | addTwoNumbers(%o, %o) should return %o', (l1, l2, expected) => {
     expect(
       convertLinkedListToArray(
-        addTwoNumbers(createLinkedList(l1), createLinkedList(l2))
-      )
+        addTwoNumbers(createLinkedList(l1), createLinkedList(l2)),
+      ),
     ).toEqual(expected);
   });
 });

@@ -10,6 +10,6 @@ describe('maxArea', () => {
     'for a given height array %s should return the maximum area %s',
     (height, expected) => {
       expect(maxArea(height)).toBe(expected);
-    }
+    },
   );
 });

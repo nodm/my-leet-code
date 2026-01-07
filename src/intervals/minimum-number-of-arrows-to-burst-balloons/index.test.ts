@@ -8,7 +8,7 @@ describe('findMinArrowShots', () => {
         [2, 8],
         [1, 6],
         [7, 12],
-      ])
+      ]),
     ).toBe(2);
 
     // Test case 2
@@ -18,7 +18,7 @@ describe('findMinArrowShots', () => {
         [3, 4],
         [5, 6],
         [7, 8],
-      ])
+      ]),
     ).toBe(4);
 
     // Test case 3
@@ -28,7 +28,7 @@ describe('findMinArrowShots', () => {
         [2, 9],
         [3, 8],
         [4, 7],
-      ])
+      ]),
     ).toBe(1);
 
     // Test case 4
@@ -38,7 +38,7 @@ describe('findMinArrowShots', () => {
         [2, 4],
         [3, 6],
         [7, 8],
-      ])
+      ]),
     ).toBe(2);
   });
 });

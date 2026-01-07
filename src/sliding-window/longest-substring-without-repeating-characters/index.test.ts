@@ -10,6 +10,6 @@ describe('lengthOfLongestSubstring', () => {
     '%# | lengthOfLongestSubstring(%s) should return %i',
     (input, expected) => {
       expect(lengthOfLongestSubstring(input)).toBe(expected);
-    }
+    },
   );
 });

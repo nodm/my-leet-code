@@ -13,7 +13,7 @@ import {ListNode} from '../list-node';
 
 export function mergeTwoLists(
   list1: ListNode | null,
-  list2: ListNode | null
+  list2: ListNode | null,
 ): ListNode | null {
   if (list1 === null) return list2;
   if (list2 === null) return list1;

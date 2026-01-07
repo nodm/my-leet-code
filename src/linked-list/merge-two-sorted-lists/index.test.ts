@@ -17,9 +17,9 @@ describe('Testing "mergeTwoLists" function', () => {
     (list1: number[], list2: number[], expected: number[]) => {
       expect(
         convertLinkedListToArray(
-          mergeTwoLists(createLinkedList(list1), createLinkedList(list2))
-        )
+          mergeTwoLists(createLinkedList(list1), createLinkedList(list2)),
+        ),
       ).toEqual(expected);
-    }
+    },
   );
 });

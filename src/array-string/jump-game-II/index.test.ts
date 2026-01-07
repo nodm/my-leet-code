@@ -10,6 +10,6 @@ describe('jump', () => {
     'should return the minimum number of jumps needed to reach the last index for the array %s',
     (nums, expected) => {
       expect(jump(nums)).toBe(expected);
-    }
+    },
   );
 });

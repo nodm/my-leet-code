@@ -5,7 +5,7 @@ export function merge1(
   nums1: number[],
   m: number,
   nums2: number[],
-  n: number
+  n: number,
 ): void {
   if (n === 0) return;
 
@@ -40,7 +40,7 @@ export function merge2(
   nums1: number[],
   m: number,
   nums2: number[],
-  n: number
+  n: number,
 ): void {
   let i = m - 1; // last element's index in nums1
   let j = n - 1; // last element's index in nums2

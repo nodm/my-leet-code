@@ -3,16 +3,16 @@ interface Array<T> {
   customMap<U>(
     callback: (value: T, index: number, array: T[]) => U,
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    thisArg?: any
+    thisArg?: any,
   ): U[];
   customReduce<U>(
     callback: (accumulator: U, value: T, index: number, array: T[]) => U,
-    initialValue?: U
+    initialValue?: U,
   ): U;
   customFilter(
     callback: (value: T, index: number, array: T[]) => boolean,
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    thisArg?: any
+    thisArg?: any,
   ): T[];
 }
 
@@ -22,7 +22,7 @@ interface Array<T> {
 Array.prototype.customMap = function map<T, U>(
   callback: (value: T, index: number, array: T[]) => U,
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  thisArg?: any
+  thisArg?: any,
 ): U[] {
   if (typeof callback !== 'function') {
     throw new TypeError(`${typeof callback} ${callback}  is not a function`);
@@ -48,7 +48,7 @@ Array.prototype.customMap = function map<T, U>(
 Array.prototype.customFilter = function filter<T>(
   callback: (value: T, index: number, array: T[]) => boolean,
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  thisArg?: any
+  thisArg?: any,
 ): T[] {
   if (typeof callback !== 'function') {
     throw new TypeError(`${typeof callback} ${callback}  is not a function`);
@@ -75,7 +75,7 @@ Array.prototype.customFilter = function filter<T>(
  */
 Array.prototype.customReduce = function reduce<T, U>(
   callback: (accumulator: U, value: T, index: number, array: T[]) => U,
-  initialValue?: U
+  initialValue?: U,
 ): U {
   if (typeof callback !== 'function') {
     throw new TypeError(`${typeof callback} ${callback}  is not a function`);

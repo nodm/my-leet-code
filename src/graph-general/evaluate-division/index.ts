@@ -33,7 +33,7 @@ type Graph = Map<string, Map<string, number>>;
 export function calcEquation(
   equations: string[][],
   values: number[],
-  queries: string[][]
+  queries: string[][],
 ): number[] {
   const graph: Graph = buildGraph(equations, values);
   const results: number[] = [];

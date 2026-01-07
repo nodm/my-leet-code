@@ -23,6 +23,6 @@ describe('Testing "merge"', () => {
     ({num1, m, num2, n, expected}) => {
       merge(num1, m, num2, n);
       expect(num1).toEqual(expected);
-    }
+    },
   );
 });
