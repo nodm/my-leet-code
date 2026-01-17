@@ -5,7 +5,7 @@ export function search(nums: number[], target: number): number {
   let right = nums.length - 1;
 
   while (left <= right) {
-    const mid = Math.floor((left + right) / 2);
+    const mid = (left + right) >>> 1;
 
     if (nums[mid] === target) return mid;
 
