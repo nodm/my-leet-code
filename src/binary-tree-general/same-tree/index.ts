@@ -1,4 +1,4 @@
-import {TreeNode} from '../TreeNode';
+import type {TreeNode} from '../TreeNode';
 
 export function isSameTree(p: TreeNode | null, q: TreeNode | null): boolean {
   // Base cases
