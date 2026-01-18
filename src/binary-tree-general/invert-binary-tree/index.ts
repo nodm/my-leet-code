@@ -1,4 +1,4 @@
-import {TreeNode} from '../TreeNode';
+import type {TreeNode} from '../TreeNode';
 
 export function invertTree(root: TreeNode | null): TreeNode | null {
   if (!root) {
