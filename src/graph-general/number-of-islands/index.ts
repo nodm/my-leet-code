@@ -1,47 +1,30 @@
 export function numIslands(grid: string[][]): number {
-  const rows = grid.length;
-  const cols = grid[0].length;
-  const graph = new Map<string, string[]>();
+    if (!grid || grid.length === 0) return 0;
 
-  // Build the graph
-  for (let i = 0; i < rows; i++) {
-    for (let j = 0; j < cols; j++) {
-      if (grid[i][j] === '1') {
-        const node = `${i},${j}`;
-        graph.set(node, []);
-        if (i > 0 && grid[i - 1][j] === '1') {
-          graph.get(node)!.push(`${i - 1},${j}`);
-        }
-        if (i < rows - 1 && grid[i + 1][j] === '1') {
-          graph.get(node)!.push(`${i + 1},${j}`);
-        }
-        if (j > 0 && grid[i][j - 1] === '1') {
-          graph.get(node)!.push(`${i},${j - 1}`);
-        }
-        if (j < cols - 1 && grid[i][j + 1] === '1') {
-          graph.get(node)!.push(`${i},${j + 1}`);
-        }
-      }
-    }
-  }
+    const m = grid.length;
+    const n = grid[0].length;
+    let count = 0;
 
-  // Count the number of islands
-  let count = 0;
-  const visited = new Set<string>();
-  for (const node of graph.keys()) {
-    if (!visited.has(node)) {
-      count++;
-      dfs(graph, node, visited);
-    }
-  }
-  return count;
-}
+    // Helper function to perform DFS and mark visited land
+    function dfs(i: number, j: number): void {
+        if (i < 0 || i >= m || j < 0 || j >= n || grid[i][j] !== '1')
+          return;
 
-function dfs(graph: Map<string, string[]>, node: string, visited: Set<string>) {
-  visited.add(node);
-  for (const neighbor of graph.get(node)!) {
-    if (!visited.has(neighbor)) {
-      dfs(graph, neighbor, visited);
+        grid[i][j] = '0'; // Mark as visited
+        dfs(i + 1, j); // Down
+        dfs(i - 1, j); // Up
+        dfs(i, j + 1); // Right
+        dfs(i, j - 1); // Left
     }
-  }
+
+    for (let i = 0; i < m; i++) {
+        for (let j = 0; j < n; j++) {
+            if (grid[i][j] === '1') {
+                count++;
+                dfs(i, j);
+            }
+        }
+    }
+
+    return count;
 }
