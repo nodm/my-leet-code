@@ -1,3 +1,54 @@
+/**
+ * Most optimal solution using array-based sliding window
+ * Time Complexity: O(m + n) where m = s.length, n = t.length
+ * Space Complexity: O(1) - fixed 128-size array for ASCII characters
+ * 
+ * This is superior to the Map-based approach because:
+ * - Constant space O(1) vs O(m+n)
+ * - Faster array access vs Map operations
+ * - Simpler single counter logic
+ */
+export function minWindowPerformant(s: string, t: string): string {
+  // How many of each character we need
+  // Positive = still need, Negative = have extra, Zero = exact match
+	const need = new Array(128).fill(0);
+
+	for (const c of t) {
+    need[c.charCodeAt(0)]++;
+  }
+
+	
+  let count = t.length; // Total characters still needed (not unique chars)
+	let left = 0;
+	let start = 0;
+	let minLen = Infinity;
+
+	for (let right = 0; right < s.length; right++) {
+		// If we need this character, decrease count
+		if (need[s.charCodeAt(right)] > 0) count--;
+
+    // Decrease need (can go negative for extra chars)
+		need[s.charCodeAt(right)]--;
+
+		// When count is 0, we have all required characters
+		while (count === 0) {
+			// Update minimum window
+			if (right - left + 1 < minLen) {
+				minLen = right - left + 1;
+				start = left;
+			}
+
+			// Try to shrink window from left
+			need[s.charCodeAt(left)]++;
+			// If need becomes positive, we're removing a required character
+			if (need[s.charCodeAt(left)] > 0) count++;
+			left++;
+		}
+	}
+
+	return minLen === Infinity ? "" : s.substring(start, start + minLen);
+}
+
 export function minWindow(s: string, t: string): string {
 	const m = s.length;
 	const n = t.length;
@@ -103,53 +154,3 @@ export function minWindowOptimal(s: string, t: string): string {
 	return minLen === Infinity ? "" : s.substring(minStart, minStart + minLen);
 }
 
-/**
- * Most optimal solution using array-based sliding window
- * Time Complexity: O(m + n) where m = s.length, n = t.length
- * Space Complexity: O(1) - fixed 128-size array for ASCII characters
- * 
- * This is superior to the Map-based approach because:
- * - Constant space O(1) vs O(m+n)
- * - Faster array access vs Map operations
- * - Simpler single counter logic
- */
-export function minWindowArray(s: string, t: string): string {
-  // How many of each character we need
-  // Positive = still need, Negative = have extra, Zero = exact match
-	const need = new Array(128).fill(0);
-
-	for (const c of t) {
-    need[c.charCodeAt(0)]++;
-  }
-
-	
-  let count = t.length; // Total characters still needed (not unique chars)
-	let left = 0;
-	let start = 0;
-	let minLen = Infinity;
-
-	for (let right = 0; right < s.length; right++) {
-		// If we need this character, decrease count
-		if (need[s.charCodeAt(right)] > 0) count--;
-
-    // Decrease need (can go negative for extra chars)
-		need[s.charCodeAt(right)]--;
-
-		// When count is 0, we have all required characters
-		while (count === 0) {
-			// Update minimum window
-			if (right - left + 1 < minLen) {
-				minLen = right - left + 1;
-				start = left;
-			}
-
-			// Try to shrink window from left
-			need[s.charCodeAt(left)]++;
-			// If need becomes positive, we're removing a required character
-			if (need[s.charCodeAt(left)] > 0) count++;
-			left++;
-		}
-	}
-
-	return minLen === Infinity ? "" : s.substring(start, start + minLen);
-}
