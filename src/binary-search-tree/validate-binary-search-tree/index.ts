@@ -11,7 +11,7 @@
  *     }
  * }
  */
-import {TreeNode} from '../TreeNode';
+import type {TreeNode} from '../TreeNode';
 
 export function isValidBST(
   root: TreeNode | null,

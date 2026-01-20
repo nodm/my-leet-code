@@ -12,7 +12,7 @@
  * }
  */
 
-import {TreeNode} from '../TreeNode';
+import type {TreeNode} from '../TreeNode';
 
 /*
  * Time Complexity: O(n), where n is the number of nodes in
