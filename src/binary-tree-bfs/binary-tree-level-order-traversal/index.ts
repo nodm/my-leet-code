@@ -11,22 +11,28 @@
  *     }
  * }
  */
-import {TreeNode} from '../TreeNode';
+import type {TreeNode} from '../TreeNode';
 
 export function levelOrder(root: TreeNode | null): number[][] {
   if (!root) return [];
 
   const result: number[][] = [];
-  let nodesByLevel: TreeNode[] = [root];
+  const queue: TreeNode[] = [root];
+  let queueIndex = 0;
 
-  while (nodesByLevel.length) {
-    result.push(nodesByLevel.map(node => node.val));
+  while (queueIndex < queue.length) {
+    const levelSize = queue.length - queueIndex;
+    const currentLevel: number[] = [];
 
-    nodesByLevel = nodesByLevel.reduce((acc, node) => {
-      if (node.left) acc.push(node.left);
-      if (node.right) acc.push(node.right);
-      return acc;
-    }, [] as TreeNode[]);
+    for (let i = 0; i < levelSize; i++) {
+      const node = queue[queueIndex++];
+      currentLevel.push(node.val);
+
+      if (node.left) queue.push(node.left);
+      if (node.right) queue.push(node.right);
+    }
+
+    result.push(currentLevel);
   }
 
   return result;
