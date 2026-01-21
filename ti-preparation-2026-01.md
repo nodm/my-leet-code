@@ -13,3 +13,5 @@
 | 9 | Trees - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [`O(N)`](./src/binary-tree-general/invert-binary-tree/index.ts) | `O(N)` / `O(log N)` |
 | 9 | Trees - [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/) | [`O(N)`](./src/binary-search-tree/validate-binary-search-tree/index.ts) | `O(h)` |
 | 10 | Trees - [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [`O(N)`](./src/binary-tree-general/lowest-common-ancestor-of-a-binary-tree/index.ts) | `O(hs)` |
+| 11 | Tree - [Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [`O(n)`](./src/binary-tree-bfs/binary-tree-level-order-traversal/index.ts) | `O(n)` |
+| 12 | Tree - [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [`O(n * m)`](src/binary-tree-general/subtree-of-another-tree/index.ts) | `O(h1 + h2)` |
