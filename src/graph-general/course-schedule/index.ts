@@ -9,7 +9,7 @@ export function canFinish(
   prerequisites: number[][],
 ): boolean {
   // Create an adjacency list to represent the graph
-  const graph = Array.from<unknown, number[]>({length: numCourses}, () => []);
+  const graph: number[][] = Array.from({length: numCourses}, () => []);
 
   // Create an array to keep track of in-degrees
   const inDegrees = Array.from({length: numCourses}, () => 0);
